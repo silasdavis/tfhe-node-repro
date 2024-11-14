@@ -1,0 +1,21 @@
+{
+  "name": "tfhe-node-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "node-tfhe": "0.9.1",
+    "prettier": "^3.3.3",
+    "prettier-plugin-organize-imports": "^4.1.0",
+    "prettier-plugin-solidity": "^1.4.1",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.5"
+  }
+}
